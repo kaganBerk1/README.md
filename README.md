@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kagan Berk Gencer</h1>
-<h3 align="center">A Junior frontend developer</h3>
+<h3 align="center">A Junior full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/gg_gencer" target="blank"><img src="https://img.shields.io/twitter/follow/gg_gencer?logo=twitter&style=for-the-badge" alt="gg_gencer" /></a> </p>
 
